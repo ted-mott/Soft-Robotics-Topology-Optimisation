@@ -4,4 +4,4 @@
 Voxel grid generation \
 Meshing of voxel grid \
 Rewards? \
-Importing into SOFA \
+Importing into SOFA
